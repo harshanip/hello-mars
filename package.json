@@ -1,6 +1,6 @@
 {
   "name": "hello-mars-hp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sample project to practise npm package release",
   "main": "index.js",
   "scripts": {
