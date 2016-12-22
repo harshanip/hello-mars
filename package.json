@@ -1,0 +1,25 @@
+{
+  "name": "hello-mars-hp",
+  "version": "1.0.0",
+  "description": "Sample project to practise npm package release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshanip/hello-mars.git"
+  },
+  "keywords": [
+    "mars",
+    "node",
+    "js",
+    "beginner"
+  ],
+  "author": "Harshani Perera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harshanip/hello-mars/issues"
+  },
+  "homepage": "https://github.com/harshanip/hello-mars#readme"
+}
